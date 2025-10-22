@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NindoTX</string>
+    <string name="login_error_title">Error</string>
+    <string name="login_error_credentials_missing">Please enter user credentials</string>
+    <string name="dialog_ok">OK</string>
+    <string name="app_title">Nindo Tx</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_remember_me">Remember me</string>
+    <string name="action_login">Login</string>
+    <string name="info_version">Version: %1$s</string>
+    <string name="info_build_time">Build Time: %1$s</string>
+
+    <string name="home_title">Home</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="welcome_user_message">Welcome %1$s</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_exit">Exit</string>
+</resources>
