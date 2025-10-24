@@ -16,4 +16,5 @@
     <string name="welcome_user_message">Welcome %1$s</string>
     <string name="action_logout">Logout</string>
     <string name="action_exit">Exit</string>
+    <string name="login_error_auth_failed">Authentication failed: %1$s</string>
 </resources>
